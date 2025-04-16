@@ -1,14 +1,13 @@
 ---
-title: "UFO Sightings Interactive Dashboard"
-excerpt: "Two Altair visualizations exploring UFO sighting patterns in the U.S."
-layout: project
-collection: projects
-date: 2025-04-16
-tags:
-  - Python
-  - Altair
-  - Vega-Lite
-image: /HW5.png
+name: UFO Sightings Interactive Dashboard
+tools: [Python, HTML, Altair]
+image: assets/pngs/HW5.png
+description: This project presents two Altair visualizations exploring UFO sighting patterns in the U.S.
+custom_js:
+  - vega.min
+  - vega-lite.min
+  - vega-embed.min
+  - justcharts
 ---
 
 🛸 **UFO Sightings Interactive Dashboard**

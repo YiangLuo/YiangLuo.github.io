@@ -50,6 +50,6 @@ During data processing, records with missing state or shape were first deleted t
 ## 🔗 References
 
 - 📈 [View the original UFO dataset](https://www.kaggle.com/datasets/NUFORC/ufo-sightings)  
-- 🧠 [View this notebook on GitHub](https://github.com/YiangLuo/YiangLuo.github.io/blob/main/Notebook.ipynb)、
+- 🧠 [View this notebook on GitHub](https://github.com/YiangLuo/YiangLuo.github.io/blob/main/Workbook.ipynb)、
 
 

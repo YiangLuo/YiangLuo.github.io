@@ -1,7 +1,7 @@
 ---
 name: UFO Sightings Interactive Dashboard
 tools: [Python, HTML, Altair]
-image: assets/pngs/HW5.png
+image: HW5.png
 description: This project presents two Altair visualizations exploring UFO sighting patterns in the U.S.
 custom_js:
   - vega.min
